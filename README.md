@@ -1,0 +1,1 @@
+a small repository that i have created mainly for myself. cli can be confusing - and most tutorials online are just not helpful. i plan to document what i did while learning in here. hope it's helpful.
